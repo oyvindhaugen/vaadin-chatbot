@@ -1,4 +1,4 @@
-package com.oyvindh.chatbot.views;
+package com.oyvindh.chatbot.views.main;
 
 
 import com.oyvindh.chatbot.views.chat.ChatView;
@@ -15,6 +15,7 @@ import com.vaadin.flow.component.html.ListItem;
 import com.vaadin.flow.component.html.Nav;
 import com.vaadin.flow.component.html.Span;
 import com.vaadin.flow.component.html.UnorderedList;
+import com.vaadin.flow.component.page.Push;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.RouterLink;
 import com.vaadin.flow.server.PWA;
@@ -23,9 +24,10 @@ import com.vaadin.flow.theme.Theme;
 /**
  * The main view is a top-level placeholder for other views.
  */
+@Push
 @PWA(name = "chatbot", shortName = "chatbot", enableInstallPrompt = false)
 @Theme(themeFolder = "chatbot")
-public class MainLayout extends AppLayout {
+public class MainView extends AppLayout {
 
     /**
      * A simple navigation item component, based on ListItem element.
@@ -72,7 +74,7 @@ public class MainLayout extends AppLayout {
 
     private H1 viewTitle;
 
-    public MainLayout() {
+    public MainView() {
         setPrimarySection(Section.DRAWER);
         addToNavbar(true, createHeaderContent());
         addToDrawer(createDrawerContent());

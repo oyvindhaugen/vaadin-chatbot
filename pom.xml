@@ -25,6 +25,10 @@
 
         <!-- Main Maven repository -->
         <repository>
+            <id>JCenter</id>
+            <url>https://jcenter.bintray.com</url>
+        </repository>
+        <repository>
             <id>central</id>
             <url>https://repo.maven.apache.org/maven2</url>
             <snapshots>
@@ -65,6 +69,26 @@
     </dependencyManagement>
 
     <dependencies>
+        <dependency>
+            <groupId>org.goldrenard</groupId>
+            <artifactId>ab</artifactId>
+            <version>1.0.7</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>net.reduls.sanmoku</groupId>
+                    <artifactId>sanmoku</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>net.reduls.sanmoku</groupId>
+                    <artifactId>sanmoku-feature-ex</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.vaadin.artur</groupId>
+            <artifactId>avataaar</artifactId>
+            <version>1.0.0</version>
+        </dependency>
         <dependency>
             <groupId>com.vaadin</groupId>
             <!-- Replace artifactId with vaadin-core to use only free components -->
