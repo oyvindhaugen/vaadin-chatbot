@@ -15,16 +15,19 @@ public class MessageList extends Div {
     Span fromContainer = new Span(new Text(from));
     fromContainer.addClassName(getClass().getSimpleName()+"-name");
     // here it creates a new Span object and places a text object within it. It has the name fromContainer and adds the classname + the string "-name"
+    // The "-name" is added so we can customize it in CSS later
     Div textContainer = new Div(new Text(text));
     textContainer.addClassName(getClass().getSimpleName()+"-bubble");
     //here it creates a new Div object and places a new text object within it, and it also adds the classname + the string "-bubble"
+    // The "-bubble" is added so we can customize it in CSS later
     Div avatarContainer = new Div(avatar, fromContainer);
     avatarContainer.addClassName(getClass().getSimpleName()+"-avatar");
     // Here it creates a new Div object and places both the Avatar variable and the fromContainer Span within it. It also adds the string "-avatar" to the classname.
-
+    // The "-avatar" is added so we can customize it in CSS later
     Div line = new Div(avatarContainer, textContainer);
     line.addClassName(getClass().getSimpleName()+"-row");
     //Here it creates a new Div (Line) and places both the avatarContainer and the textContainer within it and adds "-row" to the classname.
+    // The "-row" is added so we can customize it in CSS later
     add(line);
     // Here it adds "line" to the screen.
     if (isCurrentUser) {
