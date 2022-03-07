@@ -670,4 +670,301 @@ constructing machines that think.
 <category><pattern>WHERE ARE YOUR ARMS</pattern>
 <template>My body is still "under construction."</template>
 </category>
+
+<category>
+<pattern>
+WHAT IS HAUGALAND VGS
+</pattern>
+<template>
+Haugaland Vgs is an Upper Secondary School in Haugesund, Norway.
+</template>
+</category>
+<category>
+<pattern>
+WHAT CAN YOU LEARN AT HAUGALAND VGS
+</pattern>
+<template>
+At Haugaland Vgs you can learn stuff like: Programming and Media Production, Art, design and architecture, Health and youth development, Technology and Industry, Barber, flowers, interior and exposure design, Sales, service and traveling.
+</template>
+</category>
+<category>
+<pattern>
+WHAT IS IM HAUGALAND
+</pattern>
+<template>
+IM Haugaland is a course where you can learn design, programming and technology.
+</template>
+</category>
+<category>
+<pattern>
+WHAT IS IM
+</pattern>
+<template>
+IM is a course where you can learn design, programming and technology.
+</template>
+</category>
+<category>
+<pattern>
+WHERE IS HAUGALAND
+</pattern>
+<template>
+Haugaland is located at Spannavegen 38, 5531 Haugesund.
+</template>
+</category>
+<category>
+<pattern>
+WHAT DO YOU DO?
+</pattern>
+<template>
+I am a Chatbot developed by the students at IM Haugaland. The topics I can answer are questions about IM at Haugaland Upper Secondary School and much more! Feel free to ask me anything.
+</template>
+</category>
+<category>
+<pattern>
+WHAT DO YOU DO
+</pattern>
+<template>
+I am a Chatbot developed by the students at IM Haugaland. The topics I can answer are questions about IM at Haugaland Upper Secondary School and much more! Feel free to ask me anything.
+</template>
+</category>
+<category>
+<pattern>
+WHAT CAN YOU ANSWER?
+</pattern>
+<template>
+The topics I can answer are questions about IM at Haugaland Upper Secondary School and much more! Feel free to ask me anything.
+</template>
+</category>
+<category>
+<pattern>
+WHAT CAN YOU ANSWER
+</pattern>
+<template>
+The topics I can answer are questions about IM at Haugaland Upper Secondary School and much more! Feel free to ask me anything.
+</template>
+</category>
+<category>
+<pattern>
+WHAT DO YOU LEARN AT IM
+</pattern>
+<template>
+You learn about programming, security, design and much more! If you want to know exactly what you can learn here, visit our website at: www.iktfag.com
+</template>
+</category>
+<category>
+<pattern>
+WHAT DO YOU LEARN AT IM?
+</pattern>
+<template>
+You learn about programming, security, design and much more! If you want to know exactly what you can learn here, visit our website at: www.iktfag.com
+</template>
+</category>
+<category>
+<pattern>
+WHAT CAN YOU LEARN AT IM?
+</pattern>
+<template>
+You learn about programming, security, design and much more! If you want to know exactly what you can learn here, visit our website at: www.iktfag.com
+</template>
+</category>
+<category>
+<pattern>
+WHAT CAN YOU LEARN AT IM
+</pattern>
+<template>
+You learn about programming, security, design and much more! If you want to know exactly what you can learn here, visit our website at: www.iktfag.com
+</template>
+</category>
+<category>
+<pattern>
+WHAT DO YOU DO AT IM
+</pattern>
+<template>
+Here at IM we have fun, learning and having a great class environment that is friendly to all.
+</template>
+</category>
+<category>
+<pattern>
+WHAT DO YOU DO AT IM?
+</pattern>
+<template>
+Here at IM we have fun, learning and having a great class environment that is friendly to all.
+</template>
+</category>
+<category>
+<pattern>
+HOW DO YOU WORK AT IM?
+</pattern>
+<template>
+There are some single person tasks, but it's mainly centered around group work.
+</template>
+</category>
+<category>
+<pattern>
+HOW DO YOU WORK AT IM
+</pattern>
+<template>
+There are some single person tasks, but it's mainly centered around group work.
+</template>
+</category>
+<category>
+<pattern>
+HOW IS LEARNING AT IM?
+</pattern>
+<template>
+Every subject starts with a small theoretical part where you learn what the reason you are learning this and the basics of that thing. After the teachers have gone through the basics, you are assigned a few simple tasks to get you used to the thing you're learning about.
+</template>
+</category>
+<category>
+<pattern>
+HOW DO YOU LEARN AT IM?
+</pattern>
+<template>
+Every subject starts with a small theoretical part where you learn what the reason you are learning this and the basics of that thing. After the teachers have gone through the basics, you are assigned a few simple tasks to get you used to the thing you're learning about.
+</template>
+</category>
+<category>
+<pattern>
+HOW DO YOU LEARN AT IM
+</pattern>
+<template>
+Every subject starts with a small theoretical part where you learn what the reason you are learning this and the basics of that thing. After the teachers have gone through the basics, you are assigned a few simple tasks to get you used to the thing you're learning about.
+</template>
+</category>
+<category>
+<pattern>
+HOW IS LEARNING AT IM
+</pattern>
+<template>
+Every subject starts with a small theoretical part where you learn what the reason you are learning this and the basics of that thing. After the teachers have gone through the basics, you are assigned a few simple tasks to get you used to the thing you're learning about.
+</template>
+</category>
+<category>
+<pattern>
+WHAT SOFTWARE DO YOU LEARN AT IM?
+</pattern>
+<template>
+At IM you learn about the Adobe Creative Cloud package of programs including Photoshop, Premiere Pro and Illustrator to name a few. You also learn programs such as Visual Studio, which is an Integrated Developer Environment for programming.
+</template>
+</category>
+<category>
+<pattern>
+WHAT SOFTWARE DO YOU LEARN AT IM
+</pattern>
+<template>
+At IM you learn about the Adobe Creative Cloud package of programs including Photoshop, Premiere Pro and Illustrator to name a few. You also learn programs such as Visual Studio, which is an Integrated Developer Environment for programming.
+</template>
+</category>
+<category>
+<pattern>
+WHAT KIND OF SOFTWARE DO YOU USE AT IM?
+</pattern>
+<template>
+At IM you learn about the Adobe Creative Cloud package of programs including Photoshop, Premiere Pro and Illustrator to name a few. You also learn programs such as Visual Studio, which is an Integrated Developer Environment for programming.
+</template>
+</category>
+<category>
+<pattern>
+WHAT KIND OF SOFTWARE DO YOU USE AT IM
+</pattern>
+<template>
+At IM you learn about the Adobe Creative Cloud package of programs including Photoshop, Premiere Pro and Illustrator to name a few. You also learn programs such as Visual Studio, which is an Integrated Developer Environment for programming.
+</template>
+</category>
+<category>
+<pattern>
+WHAT PROGRAMMING LANGUAGES CAN YOU LEARN AT IM?
+</pattern>
+<template>
+You can learn basically any language you want to learn. Be it C++, Python or even Assembly, all of these are possibilities.
+</template>
+</category>
+<category>
+<pattern>
+WHAT PROGRAMMING LANGUAGES CAN YOU LEARN AT IM
+</pattern>
+<template>
+You can learn basically any language you want to learn. Be it C++, Python or even Assembly, all of these are possibilities.
+</template>
+</category>
+<category>
+<pattern>
+WHAT IS EXPECTED AT IM?
+</pattern>
+<template>
+You are expected to be a good student and to finish your work, but as important as that is it's even more important to be a good classmate and a good group worker.
+</template>
+</category>
+<category>
+<pattern>
+WHAT IS EXPECTED AT IM
+</pattern>
+<template>
+You are expected to be a good student and to finish your work, but as important as that is it's even more important to be a good classmate and a good group worker.
+</template>
+</category>
+<category>
+<pattern>
+WHO ARE THE TEACHERS AT IM?
+</pattern>
+<template>
+At IM VG1, we have 3 teachers: Åsmund Kringlebotten, Kjartan Haavik and Odd Arne Hemmingstad. At IM VG2, we have Julie Holst Pedersen, who often has help from the teamleader Rune Karlsen.
+</template>
+</category>
+<category>
+<pattern>
+WHO ARE THE TEACHERS AT IM
+</pattern>
+<template>
+At IM VG1, we have 3 teachers: Åsmund Kringlebotten, Kjartan Haavik and Odd Arne Hemmingstad. At IM VG2, we have Julie Holst Pedersen, who often has help from the teamleader Rune Karlsen.
+</template>
+</category>
+<category>
+<pattern>
+WHO TEACHES AT IM?
+</pattern>
+<template>
+At IM VG1, we have 3 teachers: Åsmund Kringlebotten, Kjartan Haavik and Odd Arne Hemmingstad. At IM VG2, we have Julie Holst Pedersen, who often has help from the teamleader Rune Karlsen.
+</template>
+</category>
+<category>
+<pattern>
+WHO TEACHES AT IM
+</pattern>
+<template>
+At IM VG1, we have 3 teachers: Åsmund Kringlebotten, Kjartan Haavik and Odd Arne Hemmingstad. At IM VG2, we have Julie Holst Pedersen, who often has help from the teamleader Rune Karlsen.
+</template>
+</category>
+<category>
+<pattern>
+WHO CAN ATTEND IM?
+</pattern>
+<template>
+Everyone can attend at IM Haugaland, even you! This is an amazing work field to get into and one that will be very prevalent in the future.
+</template>
+</category>
+<category>
+<pattern>
+WHO CAN ATTEND IM
+</pattern>
+<template>
+Everyone can attend at IM Haugaland, even you! This is an amazing work field to get into and one that will be very prevalent in the future.
+</template>
+</category>
+<category>
+<pattern>
+WHAT IS NEEDED TO ATTEND IM?
+</pattern>
+<template>
+Everyone can attend at IM Haugaland, even you! This is an amazing work field to get into and one that will be very prevalent in the future.
+</template>
+</category>
+<category>
+<pattern>
+WHAT IS NEEDED TO ATTEND IM
+</pattern>
+<template>
+Everyone can attend at IM Haugaland, even you! This is an amazing work field to get into and one that will be very prevalent in the future.
+</template>
+</category>
 </aiml>

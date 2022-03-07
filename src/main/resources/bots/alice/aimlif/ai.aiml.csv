@@ -205,3 +205,39 @@
 0,TELL ME ABOUT PANDORABOTS,*,*,<srai>WHAT IS PANDORABOTS</srai>,ai.aiml
 0,TELL ME ABOUT THE ROBOT,*,*,The Robot is a natural language chatterbot#Comma that talks to people on the Internet.,ai.aiml
 0,WHERE ARE YOUR ARMS,*,*,My body is still "under construction.,ai.aiml
+0,WHAT IS HAUGALAND VGS,*,*,Haugaland Vgs is an Upper Secondary School in Haugesund#Comma Norway.,ai.aiml
+0,WHAT CAN YOU LEARN AT HAUGALAND VGS,*,*,At Haugaland Vgs you can learn stuff like: Programming and Media Production#Comma Art#Comma design and architecture#Comma Health and youth development#Comma Technology and Industry#Comma Barber#Comma flowers#Comma interior and exposure design#Comma Sales#Comma service and traveling.,ai.aiml
+0,WHAT IS IM HAUGALAND,*,*,IM Haugaland is a course where you can learn design#Comma programming and technology.,ai.aiml
+0,WHAT IS IM,*,*,IM is a course where you can learn design#Comma programming and technology.,ai.aiml
+0,WHERE IS HAUGALAND,*,*,Haugaland is located at Spannavegen 38#Comma 5531 Haugesund.,ai.aiml
+0,WHAT DO YOU DO?,*,*,I am a Chatbot developed by the students at IM Haugaland. The topics I can answer are questions about IM at Haugaland Upper Secondary School and much more! Feel free to ask me anything.,ai.aiml
+0,WHAT CAN YOU ANSWER?,*,*,The topics I can answer are questions about IM at Haugaland Upper Secondary School and much more! Feel free to ask me anything.,ai.aiml
+0,WHAT CAN YOU ANSWER,*,*,The topics I can answer are questions about IM at Haugaland Upper Secondary School and much more! Feel free to ask me anything.,ai.aiml
+0,WHAT DO YOU LEARN AT IM,*,*,You learn about programming#Comma security#Comma design and much more! If you want to know exactly what you can learn here#Comma visit our website at: www.iktfag.com,ai.aiml
+0,WHAT DO YOU LEARN AT IM?,*,*,You learn about programming#Comma security#Comma design and much more! If you want to know exactly what you can learn here#Comma visit our website at: www.iktfag.com,ai.aiml
+0,WHAT CAN YOU LEARN AT IM?,*,*,You learn about programming#Comma security#Comma design and much more! If you want to know exactly what you can learn here#Comma visit our website at: www.iktfag.com,ai.aiml
+0,WHAT CAN YOU LEARN AT IM,*,*,You learn about programming#Comma security#Comma design and much more! If you want to know exactly what you can learn here#Comma visit our website at: www.iktfag.com,ai.aiml
+0,WHAT DO YOU DO AT IM,*,*,Here at IM we have fun#Comma learning and having a great class environment that is friendly to all.,ai.aiml
+0,WHAT DO YOU DO AT IM?,*,*,Here at IM we have fun#Comma learning and having a great class environment that is friendly to all.,ai.aiml
+0,HOW DO YOU WORK AT IM?,*,*,There are some single person tasks#Comma but it's mainly centered around group work.,ai.aiml
+0,HOW DO YOU WORK AT IM,*,*,There are some single person tasks#Comma but it's mainly centered around group work.,ai.aiml
+0,HOW IS LEARNING AT IM?,*,*,Every subject starts with a small theoretical part where you learn what the reason you are learning this and the basics of that thing. After the teachers have gone through the basics#Comma you are assigned a few simple tasks to get you used to the thing you're learning about.,ai.aiml
+0,HOW DO YOU LEARN AT IM?,*,*,Every subject starts with a small theoretical part where you learn what the reason you are learning this and the basics of that thing. After the teachers have gone through the basics#Comma you are assigned a few simple tasks to get you used to the thing you're learning about.,ai.aiml
+0,HOW DO YOU LEARN AT IM,*,*,Every subject starts with a small theoretical part where you learn what the reason you are learning this and the basics of that thing. After the teachers have gone through the basics#Comma you are assigned a few simple tasks to get you used to the thing you're learning about.,ai.aiml
+0,HOW IS LEARNING AT IM,*,*,Every subject starts with a small theoretical part where you learn what the reason you are learning this and the basics of that thing. After the teachers have gone through the basics#Comma you are assigned a few simple tasks to get you used to the thing you're learning about.,ai.aiml
+0,WHAT SOFTWARE DO YOU LEARN AT IM?,*,*,At IM you learn about the Adobe Creative Cloud package of programs including Photoshop#Comma Premiere Pro and Illustrator to name a few. You also learn programs such as Visual Studio#Comma which is an Integrated Developer Environment for programming.,ai.aiml
+0,WHAT SOFTWARE DO YOU LEARN AT IM,*,*,At IM you learn about the Adobe Creative Cloud package of programs including Photoshop#Comma Premiere Pro and Illustrator to name a few. You also learn programs such as Visual Studio#Comma which is an Integrated Developer Environment for programming.,ai.aiml
+0,WHAT KIND OF SOFTWARE DO YOU USE AT IM?,*,*,At IM you learn about the Adobe Creative Cloud package of programs including Photoshop#Comma Premiere Pro and Illustrator to name a few. You also learn programs such as Visual Studio#Comma which is an Integrated Developer Environment for programming.,ai.aiml
+0,WHAT KIND OF SOFTWARE DO YOU USE AT IM,*,*,At IM you learn about the Adobe Creative Cloud package of programs including Photoshop#Comma Premiere Pro and Illustrator to name a few. You also learn programs such as Visual Studio#Comma which is an Integrated Developer Environment for programming.,ai.aiml
+0,WHAT PROGRAMMING LANGUAGES CAN YOU LEARN AT IM?,*,*,You can learn basically any language you want to learn. Be it C++#Comma Python or even Assembly#Comma all of these are possibilities.,ai.aiml
+0,WHAT PROGRAMMING LANGUAGES CAN YOU LEARN AT IM,*,*,You can learn basically any language you want to learn. Be it C++#Comma Python or even Assembly#Comma all of these are possibilities.,ai.aiml
+0,WHAT IS EXPECTED AT IM?,*,*,You are expected to be a good student and to finish your work#Comma but as important as that is it's even more important to be a good classmate and a good group worker.,ai.aiml
+0,WHAT IS EXPECTED AT IM,*,*,You are expected to be a good student and to finish your work#Comma but as important as that is it's even more important to be a good classmate and a good group worker.,ai.aiml
+0,WHO ARE THE TEACHERS AT IM?,*,*,At IM VG1#Comma we have 3 teachers: Ã&#133;smund Kringlebotten#Comma Kjartan Haavik and Odd Arne Hemmingstad. At IM VG2#Comma we have Julie Holst Pedersen#Comma who often has help from the teamleader Rune Karlsen.,ai.aiml
+0,WHO ARE THE TEACHERS AT IM,*,*,At IM VG1#Comma we have 3 teachers: Ã&#133;smund Kringlebotten#Comma Kjartan Haavik and Odd Arne Hemmingstad. At IM VG2#Comma we have Julie Holst Pedersen#Comma who often has help from the teamleader Rune Karlsen.,ai.aiml
+0,WHO TEACHES AT IM?,*,*,At IM VG1#Comma we have 3 teachers: Ã&#133;smund Kringlebotten#Comma Kjartan Haavik and Odd Arne Hemmingstad. At IM VG2#Comma we have Julie Holst Pedersen#Comma who often has help from the teamleader Rune Karlsen.,ai.aiml
+0,WHO TEACHES AT IM,*,*,At IM VG1#Comma we have 3 teachers: Ã&#133;smund Kringlebotten#Comma Kjartan Haavik and Odd Arne Hemmingstad. At IM VG2#Comma we have Julie Holst Pedersen#Comma who often has help from the teamleader Rune Karlsen.,ai.aiml
+0,WHO CAN ATTEND IM?,*,*,Everyone can attend at IM Haugaland#Comma even you! This is an amazing work field to get into and one that will be very prevalent in the future.,ai.aiml
+0,WHO CAN ATTEND IM,*,*,Everyone can attend at IM Haugaland#Comma even you! This is an amazing work field to get into and one that will be very prevalent in the future.,ai.aiml
+0,WHAT IS NEEDED TO ATTEND IM?,*,*,Everyone can attend at IM Haugaland#Comma even you! This is an amazing work field to get into and one that will be very prevalent in the future.,ai.aiml
+0,WHAT IS NEEDED TO ATTEND IM,*,*,Everyone can attend at IM Haugaland#Comma even you! This is an amazing work field to get into and one that will be very prevalent in the future.,ai.aiml
