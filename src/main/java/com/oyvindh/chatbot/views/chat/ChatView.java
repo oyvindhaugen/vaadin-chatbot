@@ -1,6 +1,5 @@
 package com.oyvindh.chatbot.views.chat;
 
-import com.oyvindh.chatbot.TerminateBean;
 import com.oyvindh.chatbot.views.main.MainView;
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.UI;
@@ -77,10 +76,7 @@ public class ChatView extends VerticalLayout {
     } // here we set it to wait 1-3 seconds just so it doesnt answer immediately like a robot would
 
     private void exitButton() {
-        TerminateBean tb = new TerminateBean();
-        tb.Exiting();
-        System.out.println("Exiting");
-
+        System.exit(0);
     }
 }
 
